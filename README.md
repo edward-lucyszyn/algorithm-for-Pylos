@@ -1,1 +1,1 @@
-# algorithm-for-pylos
+# Algorithm for Pylos
