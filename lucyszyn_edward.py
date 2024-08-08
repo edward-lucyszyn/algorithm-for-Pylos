@@ -12,7 +12,7 @@ class AIPlayer(Player):
     """Artificial Intelligence based player"""
 
     def __init__(self):
-        super().__init__("Francis")
+        super().__init__("Francis (IA)")
         self.__maxdepth = 6 #mettez ici la profondeur max de votre alpha beta en n'oubliant que vous devez répondre en 10s)
 
     def getNextMove(self, board: Board) -> Action:
