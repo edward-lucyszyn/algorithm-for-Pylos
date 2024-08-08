@@ -1,6 +1,6 @@
 ## Algorithm for Pylos
 
-![Pyramid Game](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artofplay.com%2Fproducts%2Fpylos&psig=AOvVaw0-sRk6B1tvp_psNbRPPqkG&ust=1723197676748000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCXnd6R5YcDFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/45af2ad3-08bd-42d8-9ebf-dbcc6d34864e))
+![Pyramid Game](https://www.artofplay.com/cdn/shop/products/PylosGame-1.png?v=1636415893&width=1000)
 
 ### Game Overview
 
