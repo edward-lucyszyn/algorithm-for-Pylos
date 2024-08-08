@@ -1,5 +1,7 @@
 ## Algorithm for Pylos
 
+![Pyramid Game](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artofplay.com%2Fproducts%2Fpylos&psig=AOvVaw0-sRk6B1tvp_psNbRPPqkG&ust=1723197676748000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCXnd6R5YcDFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/45af2ad3-08bd-42d8-9ebf-dbcc6d34864e))
+
 ### Game Overview
 
 The Pyramid Game is a strategic two-player board game where the goal is to build a pyramid by stacking blocks on a grid. Each player controls a set of blocks, either black or white, and takes turns placing them on the board according to specific rules.
@@ -33,11 +35,7 @@ This project focuses on implementing an Artificial Intelligence (AI) player for 
    - Do not modify the class constructor (`__init__`) of the `AIPlayer`.
    - Do not add parameters to the existing functions provided in the framework.
    - Focus solely on enhancing the `AIPlayer` class without altering other parts of the code.
-
-4. **File Submission**:
-   - Rename the `aiplayer.py` file to `NOM_prenom.py` before submission.
-   - Ensure that the variable `name` in the code is set to your full name.
-   - Submit the program by the deadline: December 18.
+   - Your AI must make a move within a maximum of 10 seconds.
 
 ### Getting Started
 
@@ -46,8 +44,7 @@ This project focuses on implementing an Artificial Intelligence (AI) player for 
    - The folder contains all necessary source files for the project.
 
 2. **Testing**:
-   - Test your AI by running `main.py` which pits your AI against itself.
-   - Replace one AI instance with `HumanPlayer` to play against your AI manually.
+   - Test my AI by running `main.py`.
 
 ### Class Information
 
